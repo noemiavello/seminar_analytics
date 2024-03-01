@@ -1,0 +1,58 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dimitriadis et~al.(2021)Dimitriadis, Gneiting, and
+  Jordan]{reliability1}
+T.~Dimitriadis, T.~Gneiting, and A.~I. Jordan.
+\newblock Stable reliability diagrams for probabilistic classifiers.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 118\penalty0
+  (8), 2021.
+
+\bibitem[Dimitriadis et~al.(2023)Dimitriadis, Gneiting, Jordan, and
+  Vogel]{roc1}
+T.~Dimitriadis, T.~Gneiting, A.~I. Jordan, and P.~Vogel.
+\newblock Evaluating probabilistic classifiers: The triptych.
+\newblock \emph{International Journal of Forecasting}, 2023.
+
+\bibitem[Fayzrakhmanov et~al.(2018)Fayzrakhmanov, Kulikov, and Repp]{precision}
+R.~Fayzrakhmanov, A.~Kulikov, and P.~Repp.
+\newblock The difference between precision-recall and roc curves for evaluating
+  the performance of credit card fraud detection models, 2018.
+
+\bibitem[Gneiting and Vogel(2022)]{roc2}
+T.~Gneiting and P.~Vogel.
+\newblock Receiver operating characteristic (roc) curves: equivalences, beta
+  model, and minimum distance estimation.
+\newblock \emph{Machine Learning}, 111, 2022.
+
+\bibitem[Gneiting and Walz(2022)]{roc3}
+T.~Gneiting and E.-M. Walz.
+\newblock Receiver operating characteristic (roc) movies, universal roc (uroc)
+  curves, and coefficient of predictive ability (cpa).
+\newblock \emph{Machine Learning}, 111:\penalty0 1--29, 2022.
+
+\bibitem[James. et~al.(2021)James., Witten., Hastie., and
+  Tibshirani.]{statistical}
+G.~James., D.~Witten., T.~Hastie., and R.~Tibshirani.
+\newblock \emph{An Introduction to Statistical Learning: with Applications in
+  R}.
+\newblock Springer Texts in Statistics. Springer US, 2021.
+\newblock ISBN 9781071614181.
+
+\bibitem[Murphy and Winkler(1992)]{Forecast2}
+A.~H. Murphy and R.~L. Winkler.
+\newblock Diagnostic verification of probability forecasts.
+\newblock \emph{International Journal of Forecasting}, 7\penalty0 (4):\penalty0
+  435--455, 1992.
+
+\bibitem[Roopesh and Tilmann(2010)]{Forecast1}
+R.~Roopesh and G.~Tilmann.
+\newblock {Combining Probability Forecasts}.
+\newblock \emph{Journal of the Royal Statistical Society Series B: Statistical
+  Methodology}, 72\penalty0 (1):\penalty0 71--91, 2010.
+
+\end{thebibliography}

@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Basics in probability forecast evaluation}{2}{}%
+\contentsline {subsection}{\numberline {2.1}The CEP}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Calibration}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Probability forecast and CEP relation for calibration}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}How to assess calibration}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Discrimination analysis via ROC curve}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}The Area Under the Curve (AUC)}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Raw ROC diagnostics and ROC curves}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Concave ROC curves }{8}{}%
+\contentsline {section}{\numberline {3}ROC alternatives}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Precision-recall curves}{11}{}%
+\contentsline {subsection}{\numberline {3.2}MCB-DSC plots}{12}{}%
+\contentsline {section}{\numberline {4}Empirical application}{13}{}%
+\contentsline {subsection}{\numberline {4.1}Description of the data set}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Application}{13}{}%
+\contentsline {section}{\numberline {5}Conclusion}{17}{}%
+\contentsline {section}{\numberline {6}References}{18}{}%
+\contentsline {section}{\numberline {7}Appendix}{19}{}%
