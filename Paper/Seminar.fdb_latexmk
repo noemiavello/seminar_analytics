@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Seminar"] 1709281845 "Seminar.aux" "Seminar.bbl" "Seminar" 1709285831 0
+["bibtex Seminar"] 1709281845 "Seminar.aux" "Seminar.bbl" "Seminar" 1709286929 0
   "./bibexample.bib" 1709237539 2239 bbf0afd9821b0d64bd05c8f7500dc4e3 ""
   "C:/Users/Noe/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/abbrvnat.bst" 1284455456 26532 66bed5cc59495faaa3f9ae9af9fa5e42 ""
-  "Seminar.aux" 1709285829 7668 84697fa333bf45101ce79b1db94541c0 "pdflatex"
+  "Seminar.aux" 1709286927 7668 84697fa333bf45101ce79b1db94541c0 "pdflatex"
   (generated)
   "Seminar.bbl"
   "Seminar.blg"
   (rewritten before read)
-["pdflatex"] 1709285824 "c:/Users/Noe/Desktop/IBE Master/3rd Semester/Seminar_gh/Paper/Seminar.tex" "Seminar.pdf" "Seminar" 1709285831 0
+["pdflatex"] 1709286923 "c:/Users/Noe/Desktop/IBE Master/3rd Semester/seminar_analytics_git/Paper/Seminar.tex" "Seminar.pdf" "Seminar" 1709286929 0
   "C:/Users/Noe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709242279 83665 e74152440a79c80045ec5ef3cd1f6917 ""
   "C:/Users/Noe/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1699820508 24140965 ef401d406ff8131e5c37d9525b9fac94 ""
   "C:/Users/Noe/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -150,11 +150,11 @@
   "Plots_sim/concave_sim.pdf" 1709206730 4988 edede6645d6ac4b9d9daba3dd439d3d8 ""
   "Plots_sim/layout1.pdf" 1709230565 33384 5d3962959922421d49bcbb8c4a8cd107 ""
   "Plots_sim/mcb.pdf" 1709238101 11349 db7f44d272f8c1ac5fd5ee2e54535ce1 ""
-  "Seminar.aux" 1709285829 7668 84697fa333bf45101ce79b1db94541c0 "pdflatex"
+  "Seminar.aux" 1709286927 7668 84697fa333bf45101ce79b1db94541c0 "pdflatex"
   "Seminar.bbl" 1709281845 2461 5214bcef4de4e7e5faeb0f8137f37617 "bibtex Seminar"
-  "Seminar.tex" 1709285821 48320 0c14eea68ce1e71cdc67d9424853164b ""
-  "Seminar.toc" 1709285829 1425 2b000491396cd2485de2615bd9de3897 "pdflatex"
-  "c:/Users/Noe/Desktop/IBE Master/3rd Semester/Seminar_gh/Paper/Seminar.tex" 1709285821 48320 0c14eea68ce1e71cdc67d9424853164b ""
+  "Seminar.tex" 1709286920 48324 77256a3d0864d9b4a3a87c4a515eced8 ""
+  "Seminar.toc" 1709286928 1425 2b000491396cd2485de2615bd9de3897 "pdflatex"
+  "c:/Users/Noe/Desktop/IBE Master/3rd Semester/seminar_analytics_git/Paper/Seminar.tex" 1709286920 48324 77256a3d0864d9b4a3a87c4a515eced8 ""
   "declaration.pdf" 1709194304 113204 3bfaeded0574e8b4d812b3f2f50792ff ""
   (generated)
   "Seminar.aux"

@@ -1,6 +1,6 @@
-PWD c:\Users\Noe\Desktop\IBE Master\3rd Semester\Seminar_gh\Paper
+PWD c:\Users\Noe\Desktop\IBE Master\3rd Semester\seminar_analytics_git\Paper
 INPUT C:\Users\Noe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Noe\Desktop\IBE Master\3rd Semester\Seminar_gh\Paper\Seminar.tex
+INPUT c:\Users\Noe\Desktop\IBE Master\3rd Semester\seminar_analytics_git\Paper\Seminar.tex
 OUTPUT Seminar.log
 INPUT C:\Users\Noe\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Noe\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
