@@ -334,9 +334,9 @@ set.seed(123)
     colnames(vehic_models)[colnames(vehic_models) == 'X4'] <- 'RF'
     
     #exporting to use in plots
-    saveRDS(vehic_models, "vehic_models2.rds")
+    saveRDS(vehic_models, "vehic_models.rds")
     
-    #vehic_models <- readRDS("vehic_models2.rds")
+
     
 
     
